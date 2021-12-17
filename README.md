@@ -5,5 +5,5 @@ $ java -jar shade/tictactoe.jar
 ```
 #### Or more simply:
 ```console
-./tictactoe.jar
+./tictactoe.run
 ```
